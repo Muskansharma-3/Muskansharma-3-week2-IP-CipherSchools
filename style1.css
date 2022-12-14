@@ -1,0 +1,76 @@
+/* h1{
+    color: green;
+}
+.h1class{
+    color: red;
+} */
+
+/* inline style attribute > id selector > class selector > element selector */
+
+/* div#container ul.my-songs li{
+    color: brown;
+    background: yellow;
+}
+
+.favourite{
+    color: yellow;
+    background: brown;
+} */
+
+/* h2{
+    border: 4px dashed red;
+}
+
+div{
+    border: 8px inset green;
+    border-radius: 13px;
+}
+
+li{
+    border-top: 3px solid black;
+    border-bottom: 5px dotted yellow;
+} */
+
+/* h1{
+    border: 4px solid brown;
+    padding-left: 40px;
+    padding-top: 80px;
+    margin-left: 80px;
+} */
+
+/* body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    background: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+section.about-me, section.about-lilly{
+    border: 2px solid #666;
+    padding: 10px;
+}
+.about-me{
+    margin-bottom: 40px;
+}
+
+section h3{
+    text-transform: uppercase;
+} */
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box1, .box2{
+    border: 2px solid #444;
+    padding: 10px;
+}
+
+.box1{
+    margin-bottom: 40px;
+}
+.box2{
+    margin-top: 50px;
+}

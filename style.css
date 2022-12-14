@@ -1,0 +1,83 @@
+/* h1{
+    color: black;
+    background-color: #ff0000;
+} */
+
+/* body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#main-heading{
+    background-color: #cdcdcd;
+}
+
+.main-section{
+    background-color: antiquewhite;
+}
+
+p{
+    color:blueviolet
+} */
+
+/* .text-red{
+    color:red;
+}
+
+.text-green{
+    color: greenyellow;
+} */
+
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header{
+    background-color: #d0d6d5;
+}
+
+.main-section{
+    background-color: #e0e0e0;
+}
+
+.secondary{
+    color: #00705c;
+}
+
+span{
+    background-color: #7dffe8;
+} */
+
+    
+/* *{
+    color:blue;
+} */
+/* header{
+    background-color: #f0ebeb;
+}
+
+section.my-article{
+    background-color: #f2e9e9;
+}
+
+header p{
+    color: red;
+}
+
+li a{
+    color: blue;
+} */
+
+/* input[type = "text"]{
+    color: red;
+    background-color: aqua;
+}
+a[href="https://google.co.in"]{
+    color: red;
+} */
+
+
+/* a[href ^="https"]{
+    color: red;
+} */
+a[href $="co"]{
+    color: green;
+}
